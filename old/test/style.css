@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(48, 16, 255, 1) 0%,
+    rgba(100, 115, 255, 1) 100%
+  );
+}
+
+
+h1 {
+  margin: 32px 0;
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+}
+
+
+body {
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhdwallpaperim.com%2Fwp-content%2Fuploads%2F2017%2F08%2F24%2F101345-simple_background-gradient.jpg&f=1&nofb=1&ipt=d2bbbdfadc2e8df843a08f82d266bec97b1e8550fc5311bf5101cc25062c5de6&ipo=images');
+  font-family: 'Roboto Slab', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  margin: 0;
+  font-size: 140%;
+  background-position: center;
+  background-size: 130%;
+  border-radius: 50%; 
+  overflow: hidden; 
+}
+
+.card {
+  background: #0c070cd0;
+  box-shadow: 10px 6px 17px #000000;
+  color: #f7f7f7;
+  padding: 2em;
+  border-radius: 100 solid rgb(255, 255, 255);
+  width: 200px;
+  height: 200px;
+  max-width: 700px;
+  margin: 2em;
+}
+
+  
+h1, h2, h3 { 
+  margin: 0; 
+  font-family: 'Leckerli One', cursive;
+}
+
+::placeholder {
+  color: rgb(0, 0, 0);
+}
+
+.container{
+  border: 2px solid rgb(0, 0, 0);
+  padding:2px;
+  border-radius:8px;
+  background-color: #3a0035;
+  color: aliceblue;
+  width: 300px;
+  height: 32px;
+  text-align: center;
+}
+
+.btn{
+  border: 2px solid rgb(0, 0, 0);
+  border-radius:9px;
+  background-color: #3a0035;
+  color: aliceblue;
+  width: 55px;
+  height: 35px;
+}
+.blue{
+  background-color: #925e6a;
+  color: rgb(22, 22, 22);
+}
+.red{
+  background-color: 
+  #638495;
+  color: rgb(20, 20, 20);
+}
+.myTasks{
+  font-size: 20px
+}
+
+h1 {
+  font-size: 35px; /* Default font size */
+}
+
+@media (max-width: 400px) { /* Media query for screens smaller than 600px */
+  h1 {
+    font-size: 18px; /* Reduce font size for smaller screens */
+  }
+}
+
+.form-control {
+ background-color: #5e8392;
+ color: #000000;
+}

@@ -1,0 +1,108 @@
+* {
+  border-radius: 4em solid #6e6e6e;
+}
+
+body {
+  background-color: #f8b195;
+  color: hsl(0, 0%, 98%);
+  color: #f67280;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 80vw;
+  font-family: 'Roboto', sans-serif;
+  font-size: small;
+  font-style: normal;
+}
+.text-center  {
+  text-shadow: 2px 2px 0px rgba(20.8, 36.1, 49, 0.8);
+  font-size: 70px;
+}
+.myTasks{
+  text-shadow: 2px 2px 0px rgba(255, 255, 255, 0.8);
+  font-size: 40px;
+  color: #355c7d
+}
+.push_button {
+  position: relative;
+  width: 50px;
+  height: 35px;
+  text-align: center;
+  text-decoration: none;
+  line-height: 30px;
+  margin: 20px;
+}
+
+.text {
+  position: relative;
+  width: 224px;
+  height: 35px;
+  text-align: center;
+  text-decoration: none;
+  line-height: 30px;
+  margin: 20px;
+color: #67bed8;
+  background-color: #355c7d;
+  border: none;
+  font: italic small-caps bold 12px/30px Arial, sans-serif;
+}
+
+.red {
+  /* //text-shadow: -1px -1px 0 #cccccc; */
+  background: #c06c84;
+  border: 1px solid #c06c84;
+  background-image: -webkit-linear-gradient(top, #c06c84, #c06c84);
+  color: #ffffff;
+}
+
+.blue {
+  /* text-shadow: -1px -1px 0 #6c5b7b; */
+  background: #6c5b7b;
+  border: 1px solid #6c5b7b;
+  background-image: -webkit-linear-gradient(top, #6c5b7b, #6c5b7b);
+  color: #ffffff;
+}
+
+
+.btn {
+ /* text-shadow: -1px -1px 0 #ffffff;  <---comment ends here! */
+  background: #355c7d;
+  border: 3px solid #355c7d;
+  background-image: -webkit-linear-gradient(top, #355c7d, #355c7d);
+  color: #ffffff;
+}
+
+
+
+
+
+td a {
+  display: inline-block;
+}
+
+
+.allDone {
+  color: #f44c21;
+  font-style: italic;
+  font-size: 22px;
+
+}
+
+
+
+
+/*====================================================================================================== */
+
+/*====================================================================================================== */
+
+/*====================================================================================================== */
+
+
+/*====================================================================================================== */
+
+/* CSS */
+
+
+
+/* CSS */
